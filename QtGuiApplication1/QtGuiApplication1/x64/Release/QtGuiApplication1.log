@@ -1,0 +1,21 @@
+﻿生成启动时间为 2020/5/26 23:37:28。
+     1>项目“C:\Users\Mr Yang\Documents\Visual Studio 2015\Projects\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>QtVars:
+         Reading Qt configuration (E:\Qt\Qt5.9.1\5.9.1\msvc2015_64\bin\qmake.exe)
+         WHERE /Q cl.exe
+         ("E:\Qt\Qt5.9.1\5.9.1\msvc2015_64\bin\qmake.exe") 1> qtvars.log 2>&1
+     1>项目“C:\Users\Mr Yang\Documents\Visual Studio 2015\Projects\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”(1)正在节点 2 上生成“C:\Users\Mr Yang\Documents\Visual Studio 2015\Projects\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”(1:2) (Build 个目标)。
+     1>QtRccSetDependencies:
+         "E:\Qt\Qt5.9.1\5.9.1\msvc2015_64\bin\rcc.exe" --list "QtGuiApplication1.qrc" > "x64\Release\rcc_list.txt" 2> nul
+       Link:
+         E:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mr Yang\Documents\Visual Studio 2015\Projects\QtGuiApplication1\x64\Release\\QtGuiApplication1.exe" /NOLOGO /LIBPATH:E:\Qt\Qt5.9.1\5.9.1\msvc2015_64\lib /LIBPATH:C:\utils\my_sql\my_sql\lib /LIBPATH:C:\utils\postgresql\pgsql\lib Qt5Network.lib E:\Qt\Qt5.9.1\5.9.1\msvc2015_64\lib\qtmain.lib shell32.lib E:\Qt\Qt5.9.1\5.9.1\msvc2015_64\lib\Qt5Widgets.lib E:\Qt\Qt5.9.1\5.9.1\msvc2015_64\lib\Qt5Gui.lib E:\Qt\Qt5.9.1\5.9.1\msvc2015_64\lib\Qt5Core.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\Mr Yang\Documents\Visual Studio 2015\Projects\QtGuiApplication1\x64\Release\QtGuiApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mr Yang\Documents\Visual Studio 2015\Projects\QtGuiApplication1\x64\Release\QtGuiApplication1.lib" /MACHINE:X64 x64\Release\main.obj
+         x64\Release\QtGuiApplication1.obj
+         x64\Release\qrc_QtGuiApplication1.obj
+         x64\Release\moc_QtGuiApplication1.obj
+         QtGuiApplication1.vcxproj -> C:\Users\Mr Yang\Documents\Visual Studio 2015\Projects\QtGuiApplication1\x64\Release\QtGuiApplication1.exe
+     1>已完成生成项目“C:\Users\Mr Yang\Documents\Visual Studio 2015\Projects\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“C:\Users\Mr Yang\Documents\Visual Studio 2015\Projects\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.43
